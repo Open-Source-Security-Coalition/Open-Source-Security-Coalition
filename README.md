@@ -62,7 +62,7 @@ The objective of this  working group is to bring security tooling closer and mor
 
 ## How to Contribute
 
-The OSSC wants your input. As a first step, we encourage you to please first share your thoughts and feedback via GitHub Discussions with the owners of this repository. More robust guidance on contribution and code of conduct is coming soon. 
+The OSSC wants your input. As a first step, we encourage you to please first share your thoughts and feedback via [Discussions](https://github.com/Open-Source-Security-Coalition/Open-Source-Security-Coalition/discussions) with the owners of this repository. More robust guidance on contribution and code of conduct is coming soon. 
 
 ## How to Join OSSC
 
