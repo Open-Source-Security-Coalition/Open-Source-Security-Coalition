@@ -1,7 +1,7 @@
 # Open Source Security Coalition
 ## Welcome
 
-Welcome to the Open Source Security Coalition’s repo! The purpose of this repo is to provide a comprehensive overview of the Open Source Security Coalition, its priorities, working groups, and projects happening within its working groups.
+Welcome to the Open Source Security Coalition’s repo! The purpose of this repo is to provide a comprehensive overview of the Open Source Security Coalition (OSSC), its priorities, working groups, and projects happening within its working groups.
 
 ## Mission
 The coalition’s mission is to bring together companies and organizations committed to help secure open source software globally. We seek to create a space for collaboration of members’ existing initiatives while encouraging the generation of new efforts.
