@@ -38,8 +38,8 @@ The first objectives we’re using to track our progress towards the vision are:
 
 We’re collaborating with existing vulnerability format drivers like the CVE Automation WG and Quality WG and looking to use existing standards like purl (Package URL) wherever possible, rather than inventing something new.
   
-### Securing Open Source Projects
-The group’s objective is to enable open source stakeholders to have informed confidence in the security of the open source ecosystem. The working group’s priority project is a security dashboard. The key objective of that project is to design and deploy a standard “dashboard” of health and security metrics for each open source [repository, package, project, binary], to help developers and consumers of that software to make informed, data-driven decisions about security. The working group is currently scoping that work and establishing what an MVP would look like.
+### Identifying threats to open source projects
+The group’s objective is to enable stakeholders to have informed confidence in the security of open source projects. At the macro level, this includes identifying threats to the open source ecosystem and recommending practical mitigations. At the micro level, we will identify a set of key metrics and build tooling (API, web UI) to communicate those metrics to stakeholders, enabling those stakeholders to better understand the security posture of individual open source components.
 
 **Current Project Work**
 
